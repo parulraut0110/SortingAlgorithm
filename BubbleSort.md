@@ -1,4 +1,4 @@
-## BubbleSort # Using One For Loop
+# BubbleSort Using One For Loop
 
 ```c
 #include <stdio.h>
