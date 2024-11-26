@@ -1,3 +1,4 @@
+```c
 #include <stdio.h>
 int main() {   
   int a[] = {13, 7, 1, 19, 21,8, 12};
@@ -25,3 +26,5 @@ int main() {
   for(int i = 0; i < n; i++) 
     printf(" %d ", a[i]);
 }
+
+```
