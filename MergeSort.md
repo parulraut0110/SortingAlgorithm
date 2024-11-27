@@ -66,3 +66,6 @@ int main() {
   return 0;
 }
 ```
+
+![image](https://github.com/user-attachments/assets/d6b2eb52-878a-476c-aa6e-eee70854d9c0)
+
