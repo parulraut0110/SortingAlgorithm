@@ -52,3 +52,6 @@ int main() {
 }
 
 ```
+
+![image](https://github.com/user-attachments/assets/32dbffd8-471d-4962-8dc0-1815c92db5a6)
+
