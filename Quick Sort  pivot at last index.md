@@ -1,3 +1,4 @@
+```c
 /* Quick Sort  
  * pivot at last index 
  */
@@ -44,3 +45,6 @@ int main() {
     
   return 0;
 }
+```
+
+```
