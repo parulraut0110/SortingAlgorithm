@@ -47,4 +47,5 @@ int main() {
 }
 ```
 
-```
+![image](https://github.com/user-attachments/assets/f6dff9d0-68fb-44da-ad68-a57a2bf6cd0f)
+
