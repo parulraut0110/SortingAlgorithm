@@ -38,3 +38,7 @@ int main() {
     return 0;
 }
 ```
+
+
+![image](https://github.com/user-attachments/assets/f0af9aba-115a-4666-94d6-eec0e444ca2e)
+
