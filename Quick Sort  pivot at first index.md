@@ -1,3 +1,5 @@
+## Code:
+
 ```c
 /* Quick Sort  
  * pivot at first index 
@@ -45,3 +47,8 @@ int main() {
   return 0;
 }
 ```
+
+
+### Output
+
+![image](https://github.com/user-attachments/assets/57f5ce96-be03-44f1-b998-10e63b1a30c4)
