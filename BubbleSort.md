@@ -1,5 +1,7 @@
 # BubbleSort Using One For Loop
 
+Details: - [MEDIUM BLOG](https://medium.com/@parulraut0110/bubble-sort-implementation-using-a-single-for-loop-in-c-9e60eb2574f9)
+
 ```c
 #include <stdio.h>
 
