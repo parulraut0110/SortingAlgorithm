@@ -4,7 +4,7 @@
 /* Quick Sort  
  * pivot at first index 
  */
-
+ 
 #include <stdio.h>
 int partition(int [], int , int );
 void swap(int *x, int *y) {
